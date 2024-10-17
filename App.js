@@ -158,6 +158,3 @@ const styles = StyleSheet.create({
 });
 
 export default App;
-
-git config --global user.email "gustavo.g.s01@hotmail.com"
-git config --global user.name "Gustavo"
